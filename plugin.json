@@ -1,0 +1,11 @@
+{ 
+  "name" : "mapper",
+  "display_name": "Mapper",
+  "file": "mapper.php",
+  "author": "Saqib Razzaq",
+  "autor_website": "https://github.com/saqirzzq",
+  "date": "2019, 04, 20",
+  "description": "Automatically generate XML sitemap",
+  "version": "0.1",
+  "state": "Beta"
+}
